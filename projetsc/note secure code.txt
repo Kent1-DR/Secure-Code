@@ -1,0 +1,4 @@
+secure code
+
+commence par 74-75-76-77 it's a system library
+00.... pointer
